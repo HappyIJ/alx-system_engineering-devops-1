@@ -1,1 +1,2 @@
- ls -t | head10
+#!/bin/bash
+ls -t | head
