@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -t | head OR ls -tl | head -n 10
+ ls -t | head10
